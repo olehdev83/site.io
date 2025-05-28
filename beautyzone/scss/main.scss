@@ -6,14 +6,22 @@
 
 @import './components/links';
 @import './components/buttons';
+@import './components/carousel-button';
 @import './components/input';
 @import './components/social';
 @import './components/images';
+@import './components/advantages-card';
+@import './components/procedures-card';
+@import './components/pagination';
+@import './components/forms';
 
 @import './layouts/section';
 @import './layouts/header';
 @import './layouts/promo';
 @import './layouts/about';
+@import './layouts/advantages';
+@import './layouts/procedures';
+@import './layouts/contacts';
 @import './layouts/footer';
 @import './layouts/mobile-menu';
 @import './layouts/modal';
